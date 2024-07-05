@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="application_heading" />
+    <string name="add_note">Add Note</string>
+    <string name="empty_element">Empty Element</string>
+    <string name="open">Open</string>
+    <string name="delete">Delete</string>
+    <string name="enter_your_note_here">Enter your note here</string>
+    <string name="add_notee">Add Note</string>
+</resources>
